@@ -3,5 +3,5 @@
 Para rodar esse projeto em sua máquina, digite:
 
 ```
-npm installvreact
+node app.js
 ```
